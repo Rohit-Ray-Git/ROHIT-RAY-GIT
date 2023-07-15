@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Maesh Dalle</h1>
+<h1 align="center">Hi 👋, I'm ROHIT RAY</h1>
 <h3 align="center">CSE '24 at XIM University, Bhubaneswar</h3>
-<h3 align="center">Currently pursuing a UG course in BTech- CSE (Final Year), I am seeking a challenging position in a reputable organization to expand and utilize my learning, skills, and knowledge. Possess excellent communication skills and has an eye for detail. Flexible to work in any environment as required.</h3>
+<h3 align="center">Hi! I'm a B.Tech CSE understudy with experience in Python, HTML, CSS, MySQL, and other programming dialects. I appreciate making arrangements and handling complex difficulties. I'm dependably anxious to learn, team up, and work on my abilities. We should associate and perceive how we can cooperate!</h3>
 <img align="right" alt="Coding" height= "200" width="300" src="http://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-srivastava-git&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-srivastava-git" /> </p>
@@ -10,17 +10,13 @@
 
 - 🔭 I’m currently working on **Internship/Placement Project**
 
-- 🌱 I’m currently learning **Full Stack Developement / Android App Developement / SQL**
+- 🌱 I’m currently learning **Artificial Intelligence / Android App Developement / SQL**
 
-- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/ROHAN-SRIVASTAVA-GIT)
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/ROHIT-RAY-GIT)
 
-- 💬 Ask me about **Frontend / Backend / App Developemt**
+- 💬 Ask me about **Frontend / Backend / Software Development**
 
-- 📫 How to reach me **rohansrivastava3125@gmail.com**
-
-- 📄 Know about my experiences [My-Portfolio](https://rohan-srivastava-git.github.io/My-Portfolio/)
-
-- ⚡ Fun fact **I am Politician and UPSC Aspirant**
+- 📫 How to reach me **rayrohit685@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
