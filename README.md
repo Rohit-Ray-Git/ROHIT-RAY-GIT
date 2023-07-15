@@ -24,11 +24,3 @@
 
 
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-srivastava-git&show_icons=true&locale=en" alt="rohan-srivastava-git" />
-
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-srivastava-git&" alt="rohan-srivastava-git" />
-
-</p>
