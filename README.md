@@ -4,7 +4,7 @@
 <h3 align="center">Hi! I'm a B.Tech CSE understudy with experience in Python, HTML, CSS, MySQL, and other programming dialects. I appreciate making arrangements and handling complex difficulties. I'm dependably anxious to learn, team up, and work on my abilities. We should associate and perceive how we can cooperate!</h3>
 <img align="right" alt="Coding" height= "200" width="300" src="http://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-srivastava-git&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-srivastava-git" /> </p>
+
 
 
 
