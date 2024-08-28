@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/ROHIT-RAY-GIT)
 
-- 💬 Ask me about **Frontend / Backend / Software Development**
-
 - 📫 How to reach me **rayrohit685@gmail.com**
 
 
