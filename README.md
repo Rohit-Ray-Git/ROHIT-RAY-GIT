@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Internship/Placement Project**
 
-- 🌱 I’m currently learning **Artificial Intelligence / Android App Developement / MySQL**
+- 🌱 I’m currently learning **Python / Artificial Intelligence / Machine Learning / MySQL**
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/ROHIT-RAY-GIT)
 
