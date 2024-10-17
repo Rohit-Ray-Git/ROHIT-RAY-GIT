@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python / Artificial Intelligence / Machine Learning / MySQL**
 
-- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/ROHIT-RAY-GIT)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ROHIT-RAY-GIT?tab=repositories)
 
 - 📫 How to reach me **rayrohit685@gmail.com**
 
