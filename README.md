@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ROHIT RAY</h1>
+<h1 align="center">Hi 👋, I'm Rohit Ray</h1>
 <h3 align="center">CSE '24 at XIM University, Bhubaneswar</h3>
 <h3 align="center">
   Hi! I'm a Data Science Enthusiast with experience in Python, HTML, CSS, MySQL, and other programming dialects. I appreciate making arrangements and handling complex difficulties. I'm dependably anxious to learn, team up, and work on my abilities. We should associate and perceive how we can cooperate!
